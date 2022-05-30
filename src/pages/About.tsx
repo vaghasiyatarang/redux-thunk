@@ -30,6 +30,7 @@ const About = () => {
       <h3>Num : {num}</h3>
       <Inc incriment={incriment} />
       <Dec decriment={decriment} />
+      <h3>Hello this is test</h3>
     </>
   );
 };
